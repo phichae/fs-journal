@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/phichae/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/phichae/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/phichae/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/phichae/<ASSIGNMENT_REPO>)**
+* **[game_night](https://github.com/phichae/game_night>)**
+* **[vendr](https://github.com/phichae/vendr)**
+* **[gregslistPhork](https://github.com/phichae/lateSpring23_gregslistphork)**
+* **[fruitSalad](https://github.com/The-Rob-Sellers/FruitSalad)**
